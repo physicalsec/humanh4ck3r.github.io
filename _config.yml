@@ -1,13 +1,13 @@
 # Site Settings
-name: مهندسی اجتماعی
-title: مهندسی اجتماعی
-description: کتابچه نکات مهندسی اجتماعی
+name: امنیت فیزیکی
+title: امنیت فیزیکی
+description: کتابچه نکات حفاظت از دارایی ها در دنیای واقعی
 tags:
-  - social
-  - engineering
+  - physical
+  - security
   - امنیت
-  - مهندسی_اجتماعی
-  - هکر
+  - فیزیکی
+  - دارایی
 show_hero: true
 
 
@@ -35,7 +35,7 @@ two_columns_layout: true
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "UA-162368841-1"
 language: "en"
 
 
